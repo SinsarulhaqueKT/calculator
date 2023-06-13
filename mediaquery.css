@@ -2,7 +2,7 @@
 
 
     *{
-        padding: 0%;
+       border: 0%;
         margin: 0%;
     }
     .container{
@@ -35,10 +35,11 @@
     }
     .input{
         width: 100%;
-        height: 10vh;
+        height: 21vh;
         font-size: 35px;
         font-family: 'Franklin Gothic Medium';
         border-radius: 15px;
+        top: 0%;
     }
     .buttonsrow{
     width: 100%;
